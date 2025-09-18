@@ -32,6 +32,8 @@ streamlit run app.py
 
 **http://localhost:8501**
 
+---
+
 ## 🎥 Demonstration
 
 <img width="1919" height="768" alt="Screenshot 2025-09-18 191530" src="https://github.com/user-attachments/assets/c07b387f-7220-470e-9b6a-ae9de93c1646" />
